@@ -26,22 +26,26 @@ This repository contains my ever-evolving ObtainX export. I have completely reva
 - **Delta** (`website.leifs.delta.fossdc`) – Pastel icon pack.
 - **Delta Breezy Weather Icon Pack** (`website.leifs.delta.breezyweather`) – Weather icons matched for Breezy Weather.
 - **Etar Calendar** (`ws.xsoh.etar`) – Lightweight open-source calendar app.
-- **Fastmail** (`com.fastmail.app`) – Email client wrapper with push notification support.
 - **FUTO Keyboard** (`org.futo.inputmethod.latin`) – Keyboard with fully offline swipe typing and voice dictation.
 - **Gadgetbridge** (`nodomain.freeyourgadget.gadgetbridge`) – Offline health and fitness tracker companion for wearables.
 - **Global Icon Pack** (`com.richardluo.globalIconPack`) – System-wide icon routing framework (requires root).
-- **Google Messages** (`com.google.android.apps.messaging`) – Stock app for RCS text messaging.
-- **GPTMobile** (`com.taewan_p.gpt_mobile`) – Lightweight, privacy-focused mobile client for interacting directly with LLM APIs.
-- **Home Assistant Companion (Minimal)** (`io.homeassistant.companion.android.minimal`) – Smart home dashboard for de-Googled devices; uses local WebSockets instead of Google Play Services for real-time tracking and push notifications.
+- **GPTMobile** (`dev.chungjungsoo.gptmobile`) – Lightweight, privacy-focused mobile client for interacting directly with LLM APIs.
+- **Home Assistant Companion (Minimal)** (`io.homeassistant.companion.android.minimal`) – Home automation/management dialed up to 11 (requires Home Assistant server).
 - **Immich** (`app.alextran.immich`) – Self-hosted photo and video backup client.
-- **jtx Board** (`at.techbee.jtx`) – V Journal-compatible diary, notes, and task board.
+- **InstallerX-Revived** (`com.rosan.installer`) – Fast, modern app installer with root, Shizuku, and network APK streaming support.
+- **jtx Board** (`at.techbee.jtx`) – VJournal-compatible diary, notes, and task board.
 - **Keyguard** (`com.artemchep.keyguard`) – Lightweight native client for Bitwarden.
+- **LibrePods** (`me.kavishdevar.librepods`) – Modern, open-source companion app and battery monitor for AirPods.
 - **LibreTube** (`com.github.libretube`) – Alternative YouTube frontend built to bypass tracking.
+- **Lissen** (`org.grakovne.lissen`) – Dedicated, modern client for self-hosted Audiobookshelf servers.
 - **Magisk** (`com.topjohnwu.magisk`) – Open-source root manager and su provider.
-- **microG Services** (`com.google.android.gms`) – FOSS framework for sandboxed Google services and push notifications.
+- **microG Companion** (`com.android.vending`) – FakeStore companion facilitating in-app purchases and Store-dependent app functionality.
+- **microG Services** (`com.google.android.gms`) – FOSS framework for sandboxed Google Play Services and push notifications.
+- **microG Services Framework Proxy** (`com.google.android.gsf`) – Legacy proxy provider allowing GCM push notifications on older frameworks.
 - **MiXplorer** (`com.mixplorer.beta`) – Advanced file manager with network and root access options.
-- **MpvEx** (`app.marlboroadvance.mpvex`) – Gesture-based video player using the MPV core.
+- **mpvEx** (`app.marlboroadvance.mpvex`) – Gesture-based video player using the MPV core.
 - **Nagram X** (`nu.gpu.nagram`) – Advanced Telegram client frontend with enhanced privacy modifications.
 - **ObtainX** (`dev.bikram.obtainx`) – App installer that scrapes GitHub and other sources and sideloads APKs.
 - **PrivateDNSAndroid** (`ru.karasevm.privatednstoggle`) – Quick settings tile to quickly switch private DNS servers.
+- **SparkyFitness** (`com.SparkyApps.SparkyFitnessMobile`) – Self-hosted, privacy-first workout tracker, meal logger, and analytics client.
 - **Syncthing-Fork** (`com.github.catfriend1.syncthingfork`) – Advanced Syncthing wrapper with granular run conditions (Wi-Fi, battery, charging) for local-only data sync.
