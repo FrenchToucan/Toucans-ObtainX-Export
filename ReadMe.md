@@ -33,7 +33,7 @@ This repository contains my ever-evolving ObtainX export. I have completely reva
 * **Gadgetbridge** (`nodomain.freeyourgadget.gadgetbridge`) – Offline health and fitness tracker companion for wearables.
 * **Gloom** (`dev.materii.gloom`) – Material-designed client for GitHub.
 * **Global Icon Pack** (`com.richardluo.globalIconPack`) – System-wide icon routing framework (requires root).
-* **HiLight Studio** (`com.hilight.studio`) – Notification and edge lighting customization studio (requires root/Shizuku).
+* **HiLight Studio** (`com.hilight.studio`) – Notification lighting for Pixel 11 Pro series only (requires root/Shizuku).
 * **Home Assistant Companion (Minimal)** (`io.homeassistant.companion.android.minimal`) – Home automation and management (requires Home Assistant server).
 * **Immich** (`app.alextran.immich`) – Self-hosted photo and video backup client.
 * **InstallerX-Revived** (`com.rosan.installer`) – Fast, modern app installer with root, Shizuku, and network APK streaming support.
@@ -50,6 +50,7 @@ This repository contains my ever-evolving ObtainX export. I have completely reva
 * **mpvEx** (`app.marlboroadvance.mpvex`) – Gesture-based video player using the MPV core.
 * **NiagramX** (`org.telegram.messenger`) – Advanced Telegram client frontend with enhanced privacy modifications (formerly Nagram X).
 * **ObtainX** (`dev.bikram.obtainx`) – App installer that scrapes GitHub and other sources and sideloads APKs.
+* **PLEnhanced** (`com.drdisagree.pixellauncherenhanced`) – Vector module for Pixel Launcher and Launcher3 customization (requires root/Vector).
 * **PrivateDNSAndroid** (`ru.karasevm.privatednstoggle`) – Quick settings tile to quickly switch private DNS servers.
 * **RikkaHub** (`me.rerere.rikkahub`) – Multi-model AI chat and workspace client for Android.
 * **SparkyFitness** (`com.SparkyApps.SparkyFitnessMobile`) – Self-hosted, privacy-first workout tracker, meal logger, and analytics client.
