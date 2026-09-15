@@ -1,4 +1,4 @@
-# Toucans-Obtainium-Export
+# Toucans-ObtainX-Export
 
 A one-stop shop to a clean, open-source (and MD3) maximizing Android device via ObtainX.
 
