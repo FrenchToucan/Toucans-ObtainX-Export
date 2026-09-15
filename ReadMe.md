@@ -14,8 +14,6 @@ This repository contains my ever-evolving ObtainX export. I have completely reva
 
 ## App Inventory & Functions
 
-## App Inventory & Functions
-
 * **Aegis** (`com.beemdevelopment.aegis`) – 2FA token generator with local encrypted backups.
 * **AntennaPod** (`de.danoeh.antennapod`) – Podcast player and subscription manager.
 * **Arcticons** (`com.donnnno.arcticons`) – Monochromatic line-art icon pack.
