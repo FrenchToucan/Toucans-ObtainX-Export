@@ -11,6 +11,7 @@ This repository contains my ever-evolving ObtainX export. I have completely reva
 - Open ObtainX and go to **Backup** -> **ObtainX import**.
 - Choose your downloaded `obtainx-export.json` file.
 - *(Recommended)*: Add your GitHub Personal Access Token in **Settings** -> **GitHub PAT** to prevent API rate limiting.
+-  (Recommended)*: Install InstallerX Revived first. Select an available privilege. Edit the default profile so **Install mode** is set to "Auto notification**. This will remove button presses from the app install process.
 
 ## App Inventory & Functions
 
