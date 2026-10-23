@@ -47,7 +47,7 @@ This repository contains my ever-evolving ObtainX export. I have completely reva
 * **microG Services Framework Proxy** (`com.google.android.gsf`) – Legacy proxy provider allowing GCM push notifications on older frameworks.
 * **MiXplorer** (`com.mixplorer.beta`) – Advanced file manager with network and root access options.
 * **mpvEx** (`app.marlboroadvance.mpvex`) – Gesture-based video player using the MPV core.
-* **NiagramX** (`org.telegram.messenger`) – Advanced Telegram client frontend with enhanced privacy modifications (formerly Nagram X).
+* **Niagram** (`top.nkbe.niagram`) – Advanced Telegram client frontend with enhanced privacy modifications.
 * **ObtainX** (`dev.bikram.obtainx`) – App installer that scrapes GitHub and other sources and sideloads APKs.
 * **PLEnhanced** (`com.drdisagree.pixellauncherenhanced`) – Vector module for Pixel Launcher and Launcher3 customization (requires root/Vector).
 * **PrivateDNSAndroid** (`ru.karasevm.privatednstoggle`) – Quick settings tile to quickly switch private DNS servers.
