@@ -11,6 +11,7 @@ Installing the apps from this list will provide you with a fully functioning, st
 ## 🚀 Setup Instructions
 
 1. **Download the Export File**  
+
    📥 Download the [`obtainx-export.json`](./obtainx-export.json) file from this repository.
 
 2. **Install ObtainX**  
@@ -36,12 +37,13 @@ A curated list of core tools categorized by function to give you an immediate bi
 | :--- | :--- | :--- |
 | **ObtainX** | `dev.bikram.obtainx` | App installer that scrapes GitHub and other sources and sideloads APKs. |
 | **Aurora Store** | `com.aurora.store` | Play Store client for anonymous app downloads. |
-| **InstallerX-Revived** | `com.rosan.installer` | Fast, modern app installer with root, Shizuku, and network APK streaming support. |
+| **Morphe** | `app.morphe.manager` | Modern patch manager utility for app customization and management. |
+| **InstallerX Revived** | `com.rosan.installer.x.revived` | Fast, modern app installer with root, Shizuku, and network APK streaming support. |
 
 ### 🛡️ System, Root & Network Utilities
 | App | Package Name | Description |
 | :--- | :--- | :--- |
-| **Magisk** | `com.topjohnwu.magisk` | Open-source root manager and su provider. |
+| **BakaSU** | `com.resukisu.resukisu` | Open-source root manager and su provider. |
 | **Aegis** | `com.beemdevelopment.aegis` | 2FA token generator with local encrypted backups. |
 | **Keyguard** | `com.artemchep.keyguard` | Lightweight native client for Bitwarden. |
 | **Tailscale** | `com.tailscale.ipn` | Zero-config mesh VPN client built on WireGuard. |
@@ -76,6 +78,7 @@ A curated list of core tools categorized by function to give you an immediate bi
 | :--- | :--- | :--- |
 | **LibreTube** | `com.github.libretube` | Alternative YouTube frontend built to bypass tracking. |
 | **Cloudstream** | `com.lagradost.cloudstream3` | Modular media streaming engine. |
+| **Skipii** | `com.skipii` | Optimized media and video streaming client wrapper. |
 | **mpvEx** | `app.marlboroadvance.mpvex` | Gesture-based video player using the MPV core. |
 | **VIVI** | `com.vivi.vivimusic` | Open-source music streaming client. |
 | **Lissen** | `org.grakovne.lissen` | Dedicated, modern client for self-hosted Audiobookshelf servers. |
@@ -84,7 +87,7 @@ A curated list of core tools categorized by function to give you an immediate bi
 ### 🏠 Self-Hosted, Wearables & Hardware
 | App | Package Name | Description |
 | :--- | :--- | :--- |
-| **Home Assistant Minimal** | `io.homeassistant.companion.android.minimal` | Home automation and management (requires Home Assistant server). |
+| **Home Assistant** | `io.homeassistant.companion.android.minimal` | Home automation and management (requires Home Assistant server). |
 | **Immich** | `app.alextran.immich` | Self-hosted photo and video backup client. |
 | **SparkyFitness** | `com.SparkyApps.SparkyFitnessMobile` | Self-hosted, privacy-first workout tracker, meal logger, and analytics client. |
 | **Gadgetbridge** | `nodomain.freeyourgadget.gadgetbridge` | Offline health and fitness tracker companion for wearables. |
